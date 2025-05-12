@@ -20,6 +20,10 @@ $ git init
 Initialized empty Git repository in MissDixvine/tuto-markdown/projects/recipe-repository/.git/
 ```
 
+Liste
+- [x] faire un début de liste
+- [x] commencer un peu à coder
+- [ ] faire le site complet
 
 
 
