@@ -11,6 +11,15 @@
 
 
 
+``` javascript
+var myvar = "hello,world!";
+```
+
+```
+$ git init
+Initialized empty Git repository in MissDixvine/tuto-markdown/projects/recipe-repository/.git/
+```
+
 
 
 
